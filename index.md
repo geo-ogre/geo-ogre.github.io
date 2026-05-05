@@ -4,17 +4,22 @@
 
 OGRE explores generative models and their application to extreme events detection in multimodal remote sensing data (optical and SAR). It investigates how to leverage large generative models as likelihood estimators, to detect finely-localized anomalies, both in time and space, and to perform change detection in satellite image time series. It targets a broad range of applications from flood surveillance, ice melting monitoring and urban growth analysis.
 
-## News
+## 📰 News
 
+**March 2026**: Léo Demelle joins OGRE for his internship on flow matching models for unsupervised change detection.
 **January 2026**: project OGRE starts!
 
-## About the project
+### 📌 Open positions
 
-### Main research topics
+* [Research engineer: large scale generative models for Earth observation](https://www.ign.fr/nous-rejoindre/offres-emploi/ingenieure-de-recherche-modeles-generatifs-profonds-pour-limagerie-satellitaire-cdd-12-mois-1590)
+
+## ℹ About the project
+
+### 🌍 Main research topics
 
 The OGRE project investigates four main research directions. The first one is designing and training large generative models for *multispectral* and *SAR* imagery, going beyond the naive adaptation of RGB generative models to Earth Observation. The second one is investigating the conditioning of such models to various metadata, ranging from geographical locations to time of year and sensor characteristics. The third direction consists in creating anomaly detectors at the finest possible level, i.e. that are able to detect *localized* events such as building destruction and ice breaks. Finally, the last direction investigates change detection, in other words, finding *temporal* anomalies in satellite image time series.
 
-### Consortium
+### 👥 Consortium
 
 The partners of the OGRE project are:
 
