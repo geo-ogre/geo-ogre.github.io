@@ -6,8 +6,8 @@ OGRE explores generative models and their application to extreme events detectio
 
 ## 📰 News
 
-**March 2026**: Léo Demelle joins OGRE for his internship on flow matching models for unsupervised change detection.
-**January 2026**: project OGRE starts!
+* **March 2026**: Léo Demelle joins OGRE for his internship on flow matching models for unsupervised change detection.
+* **January 2026**: project OGRE starts!
 
 ### 📌 Open positions
 
