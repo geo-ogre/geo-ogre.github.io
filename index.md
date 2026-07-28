@@ -1,6 +1,6 @@
 # 👹  OGRE: (E)arth Observation and Generative models for Rare Events detection
 
-*(E)arth Observation and Generative models for Rare Events detection* (OGRE, ANR-25-ASTR-0012, 2026-2029) is a research project funded by the [Agence Nationale de la Recherche](https://anr.fr/) (ANR) under the ASTRID program with a grant from "Agence Innovation Défense" (AID).
+*(E)arth Observation and Generative models for Rare Events detection* (OGRE, [ANR-25-ASTR-0012](https://anr.fr/Project-ANR-25-ASTR-0012), 2026-2029) is a 3-years research project funded by the [Agence Nationale de la Recherche](https://anr.fr/) (ANR) under the ASTRID program with a grant from "Agence Innovation Défense" (AID).
 
 OGRE explores the application of generative models to detect extreme events, such as natural disasters, in multimodal satellite image time series (optical and SAR). It investigates how to leverage diffusion models and flow matching as likelihood estimators in order to detect finely-localized anomalies, both in time and space, and to perform change detection. The project targets a broad range of downstream applications in Earth observation, such as flood surveillance, ice melting monitoring and urban growth analysis.
 
